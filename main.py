@@ -8,7 +8,7 @@ app = FastAPI()
 
 # --- Configuration ---
 ALLOWED_ORIGIN = "https://dash-e2tqwr.example.com"
-USER_EMAIL = "your-email@example.com"  # Replace with your actual logged-in email
+USER_EMAIL = "21f1004372@ds.study.iitm.ac.in" 
 
 
 @app.middleware("http")
